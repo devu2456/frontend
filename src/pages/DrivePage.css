@@ -1,0 +1,11 @@
+.table th {
+    cursor: pointer;
+  }
+  
+  .badge.bg-success {
+    background-color: #28a745 !important;
+  }
+  
+  .badge.bg-danger {
+    background-color: #dc3545 !important;
+  }
